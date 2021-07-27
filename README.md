@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello world 👋
 
-<!--
-**Git-on-my-level/git-on-my-level** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current co-founder @ Stably
 
-Here are some ideas to get you started:
+Future matrioshka brain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Read some of my thoughts 🧠
+- [On Medium](https://dazhengzhang.medium.com/)
+
+### Learn more about Stably 📚
+- [On our website](https://www.stably.io/)
+- [On our blog](https://www.stably.io/blog/)
+
+### Come work at Stably 🚀
+- [Check out our careers page](https://www.stably.io/careers/)
+
+### Follow me or reach out on social 🐦
+- [LinkedIn](https://www.linkedin.com/in/dazhengzhang/)
+- [Twitter](https://twitter.com/dazhengzhang)
+- [Keybase](https://keybase.io/david_z)
+- [Email](mailto:david@stably.io)
