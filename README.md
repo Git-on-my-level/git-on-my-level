@@ -1,8 +1,10 @@
 ## Hello world 👋
 
-Current co-founder @ Stably
+Current co-founder @ [Stably](https://stably.io/)
 
-Future matrioshka brain
+Lead technical contributor @ [dTRINITY](https://www.dtrinity.org/)
+
+Future [matrioshka brain](https://en.wikipedia.org/wiki/Matrioshka_brain)
 
 ### Read some of my thoughts 🧠
 - [On Medium](https://dazhengzhang.medium.com/)
@@ -15,7 +17,6 @@ Future matrioshka brain
 - [Check out our careers page](https://www.stably.io/careers/)
 
 ### Follow me or reach out on social 🐦
+- [X/Twitter](https://twitter.com/dazhengzhang)
 - [LinkedIn](https://www.linkedin.com/in/dazhengzhang/)
-- [Twitter](https://twitter.com/dazhengzhang)
 - [Keybase](https://keybase.io/david_z)
-- [Email](mailto:david@stably.io)
